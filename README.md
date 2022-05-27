@@ -1,0 +1,13 @@
+- I am odi2050
+- I am French
+- I am interested in network automation
+- I am learning python right now
+- I would like to collaborate on python and network automation projects
+- You can contact me in private message, I will answer you gladly
+------------------------------------------------------------------------------
+- Je suis odi2050 
+- je suis francais 
+- Je suis intéressé par l'automatisation réseau 
+- J'apprendre python en ce moment 
+- Je souhaiterais collaborer sur des projets python et d'automatisation réseau
+- Tu peux me contacter en message privé, je te répondrais volontiers
